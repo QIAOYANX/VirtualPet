@@ -8,6 +8,6 @@ void draw(){
   fill(#FFCBE4);
   ellipse(450,150,80,150);
   ellipse(400,420,260,200);
-  ellipse(420,550,100,150);
+  ellipse(420,550,100,120);
 }
 
