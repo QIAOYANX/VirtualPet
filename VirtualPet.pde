@@ -1,13 +1,47 @@
-
-void setup(){
+void setup()
+{
+  background(#C7D2E8);
   size(800,800);
 }
-void draw(){
+void draw()
+{
+  fill(#F2DCEE);
+  ellipse(500,500,60,60);
   ellipse(400,300,200,180);
   ellipse(350,150,80,150);
-  fill(#FFCBE4);
+  fill(#F2DCEE);
   ellipse(450,150,80,150);
+  fill(#CAC6F2);
+  ellipse(390,500,150,150);
+  fill(255,255,255);
+  ellipse(450,150,30,100);
+  fill(#F2DCEE);
   ellipse(400,420,260,200);
-  ellipse(420,550,100,120);
+  fill(#F2DCEE);
+  ellipse(400,200,60,60);
+  fill(255,255,255);
+  ellipse(400,420,180,150);
+  fill(0,0,0);
+  ellipse(360,260,30,40);
+  fill(0,0,0);
+  ellipse(440,260,30,40);
+  fill(255,255,255);
+  ellipse(448,260,15,17);
+  fill(255,255,255);
+  ellipse(368,260,15,17);  
+  fill(255,255,255);
+  ellipse(350,150,30,100);
+  fill(#3E8AC6);
+  rect(354,278,10,40);
+  fill(#3E8AC6);
+  rect(435,278,10,40);
+  stroke(#F2DCEE);
+  rotate(PI/6);
+  fill(#F2DCEE);
+  ellipse(430,140,60,120);
+  fill(255,255,255);
+  ellipse(440,85,10,20);
+  ellipse(430,85,10,20);
+  ellipse(450,85,10,20);
 }
 
